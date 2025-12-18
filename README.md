@@ -1,4 +1,4 @@
-# Hi, I'm Hamza CH👋
+# Hi, I'm Hamza👋
 
 ## About Me
 - 🎓 Student and self-taught developer  
@@ -48,6 +48,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thechhub&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thechhub&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thechhub&theme=dark)
 
 ---
 
