@@ -7,33 +7,19 @@
 - ⚡ Fun fact: I like building things from scratch and understanding how they actually work
 
 ---
-
 ## Skills & Tools
 
-### Languages
+### Languages      
 - Python  
 - SQL  
-- C++  
-
-### Libraries & Frameworks
-- NumPy  
-- Pandas  
-- scikit-learn  
-- Matplotlib  
-- Flask  
-- FastAPI  
-
+- C++
+  
 ### Tools & Platforms
 - Git & GitHub  
 - Linux  
-- Docker  
-- VS Code  
-- Postman  
+- Nmap & Wireshark
+- VS Code    
 - Jupyter Notebook  
-
-### Cybersecurity Tools
-- Nmap  
-- Wireshark  
 
 ### Cybersecurity
 - Networking fundamentals
@@ -43,25 +29,19 @@
 
 ---
 
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thechhub&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thechhub&layout=compact&theme=dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thechhub&theme=github-dark)
 
-
 ---
-
 ## What I’m Currently Working On
 - Strengthening Python for automation and data-related projects  
 - Building hands-on experience with cybersecurity tools  
 - Learning ethical hacking concepts and network security  
 - Improving Linux and system-level understanding  
-
 ---
-
 ## Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/hamza-khalil-ch/
 
