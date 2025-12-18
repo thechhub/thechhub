@@ -49,7 +49,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thechhub&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thechhub&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thechhub&theme=github-dark)
+
 
 ---
 
